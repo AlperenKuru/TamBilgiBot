@@ -1,0 +1,27 @@
+[
+    {
+        "time": 0,
+        "action": "Recording Started"
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            606,
+            330
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            400,
+            476
+        ]
+    },
+    {
+        "time": 3.29,
+        "action": 0,
+        "key": "Key.esc"
+    }
+]
